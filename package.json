@@ -1,0 +1,27 @@
+{
+  "name": "chai-mocha-basics",
+  "version": "1.0.0",
+  "description": "A basic Chai Mocha setup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jesseskinner/chai-mocha-basics.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "Jesse Skinner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jesseskinner/chai-mocha-basics/issues"
+  },
+  "homepage": "https://github.com/jesseskinner/chai-mocha-basics",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
